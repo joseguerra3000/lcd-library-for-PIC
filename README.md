@@ -1,9 +1,9 @@
-#LCD library for 8-bits PIC
+# LCD library for 8-bits PIC
 
 This library allows an PIC microcontroller to control LCD displays based on the Hitachi HD44780 (or a compatible) chipset, which is found on most text-based LCDs.
 
 ## License
-Copyright (C) 2020 Jose Guerra Carmenate <joseguerracarmenate@gmail.com> 
+Copyright (C) 2020 Jose Guerra Carmenate, <joseguerracarmenate@gmail.com> 
 
 "LCD library for 8-bits PIC" is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
